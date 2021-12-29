@@ -1,0 +1,5 @@
+My name is Ihsan. I am trying to learn computer science.
+I am especially interested in programming.
+I started with C.
+Then I learned C++.
+Now I am learning python.
